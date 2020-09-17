@@ -10,9 +10,5 @@
       "role": "Developer"
     }
   ],
-  "license": "MIT",
-  "dist": {
-    "url": "https://github.com/jdupouy-kiamo/test/archive/0.1.0.zip",
-    "type": "zip"
-  }
+  "license": "MIT"
 }
