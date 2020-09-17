@@ -11,9 +11,8 @@
     }
   ],
   "license": "MIT",
-  "version": "0.1.0",
   "dist": {
-    "url": "https://github.com/jdupouy-kiamo/test/raw/develop/dist/test-0.1.0.zip",
+    "url": "https://github.com/jdupouy-kiamo/test/raw/develop/dist/test.zip",
     "type": "zip"
   }
 }
