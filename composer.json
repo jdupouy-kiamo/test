@@ -1,0 +1,19 @@
+{
+  "name": "jdupouykiamo/test",
+  "description": "Test jdupouy test package",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Kiamo",
+      "email": "info@kiamo.com",
+      "homepage": "http://www.kiamo.com",
+      "role": "Developer"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.1.0",
+  "dist": {
+    "url": "https://github.com/jdupouy-kiamo/test/raw/develop/dist/test-0.1.0.zip",
+    "type": "zip"
+  }
+}
